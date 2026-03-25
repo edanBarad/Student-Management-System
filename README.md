@@ -1,5 +1,6 @@
 # Student-Management-System
 
+I'm about to begin my CS degree. 
 This project is a simple Java application for managing student information, including adding, removing, searching students, and managing their grades.
 
 Features
